@@ -1,4 +1,4 @@
-# 🏄‍♂️ LonelySufers
+# 🏄‍♂️ LonelySuffers
 
 대한민국 서퍼들에게 서핑과 숙소, 즐길거리를 제공하는 소셜 플랫폼
 
@@ -85,6 +85,7 @@
 ![Lonely Surfers 기획보고서의 사본_page-0002](https://github.com/eun417/wam/assets/126125547/23a5220e-2f21-4993-a5c6-c977316b5b63)
 
 ---
+## 
 ![Lonely Surfers 기획보고서의 사본_page-0004](https://github.com/eun417/wam/assets/126125547/c5ce2d3f-02af-41c0-ba0a-f90fbfe7edf0)
 
 ---
