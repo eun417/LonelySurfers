@@ -1,4 +1,4 @@
-# 🏄‍♂️ LonelySuffers
+# 🏄‍♂️ LonelySurfers
 
 대한민국 서퍼들에게 서핑과 숙소, 즐길거리를 제공하는 소셜 플랫폼
 
@@ -90,5 +90,6 @@
 
 ---
 ## 기능별 화면 정리
-[Lonely Surffers 보고서.pdf](https://github.com/user-attachments/files/15528557/Lonely.Surffers.pdf)
+[Lonely Surfers 보고서.pdf](https://github.com/user-attachments/files/15528883/Lonely.Surfers.pdf)
+
 
