@@ -5,8 +5,20 @@
 ---
 ## Teck Stack
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Maven&logoColor=white"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
+**BackEnd**
+
+<img src="https://img.shields.io/badge/JAVA 8-007396?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Maven-C71A36?style=flat&logo=Maven&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat&logo=MyBatis&logoColor=white"> 
+
+
+**FrontEnd**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>  <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+
+
+**etc.**
+
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white"/>
 
 ---
 ## 유사 사이트 분석
@@ -15,7 +27,7 @@
 ---
 ## 설계 주안점
 1. **종합적 기능 제공**
-    - 여러 지역에 분산되어 있는 강습, 숙박, 파티에 관한 정보들을 함께 제공
+    - 여러 지역에 분산되어 있는 강습, 숙박에 관한 정보들을 함께 제공
     - 회원들은 각각의 상품을 종합하여 예약 가능
 
 2. **다양한 문의 시스템**
@@ -31,7 +43,7 @@
     <td><b>기능</b></td>
   </tr>
   <tr>
-    <td rowspan=11>사용자 페이지</td>
+    <td rowspan=12>사용자 페이지</td>
     <td>회원가입 및 로그인</td>
   </tr>
   <tr>
@@ -54,6 +66,9 @@
   </tr>
   <tr>
     <td>카풀</td>
+  </tr>
+  <tr>
+    <td>조건 필터링 상품 및 카풀 검색</td>
   </tr>
   <tr>
     <td>일기 예보 안내</td>
@@ -81,8 +96,7 @@
 
 ---
 ## ERD
-![Lonely Surfers 기획보고서의 사본_page-0001](https://github.com/eun417/wam/assets/126125547/134d4de8-7668-4bb5-a548-0649256106bc)
-![Lonely Surfers 기획보고서의 사본_page-0002](https://github.com/eun417/wam/assets/126125547/23a5220e-2f21-4993-a5c6-c977316b5b63)
+![Copy of Final_Project](https://github.com/eun417/wam/assets/126125547/6d65bd21-e591-4187-b92d-a720018d461b)
 
 ---
 ## 
