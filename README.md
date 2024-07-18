@@ -3,7 +3,7 @@
 대한민국 서퍼들에게 서핑과 숙소, 즐길거리를 제공하는 소셜 플랫폼
 
 ---
-## Teck Stack
+## Tech Stack
 
 **BackEnd**
 
